@@ -1,0 +1,24 @@
+
+1. Play Game
+2. Quit
+Enter choice: 1
+
+Enter names file: names.txt
+Enter Army #1 name: Knights
+Enter Army #1 size: 3
+
+Enter Army #2 name: Monsters
+Enter Army #2 size: 3
+
+
+Knights Stats
+Creature            Type           Strength    Health
+Max                 Elf            92          181
+Tim                 Balrog         160         205
+Sarah               Demon          110         150
+
+Monsters Stats
+Creature            Type           Strength    Health
+Rex                 Cyberelf       105         193
+Luna                Demon          144         167
+Drake               Balrog         121         176
